@@ -1,0 +1,9 @@
+{
+	"name": "dfgithubam",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20753bfc-c5ce-4d51-b517-315fd90ae9ea",
+		"tenantId": "f19f105f-8624-43a3-a1f9-a4adb699cb10"
+	}
+}
